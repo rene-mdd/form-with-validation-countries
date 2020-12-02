@@ -174,7 +174,7 @@ form button[type="button"] {
 
 .iti__active {
   &::before {
-    content: url("/assets/checked-list.svg") !important;
+    content: url("assets/checked-list.svg") !important;
     padding: 9px 8px 8px 8px;
     z-index: 11;
   }
