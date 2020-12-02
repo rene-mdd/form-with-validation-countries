@@ -1879,7 +1879,7 @@ input[readonly]
 
 .iti__flag {
   height: 15px;
-  background-image: url("assets/flags.png");
+  background-image: url("../assets/flags.png");
   background-repeat: no-repeat;
   background-color: #dbdbdb;
   background-position: 20px 0;
@@ -1887,7 +1887,7 @@ input[readonly]
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .iti__flag {
-    background-image: url("assets/flags@2x.png");
+    background-image: url("../assets/flags@2x.png");
   }
 }
 
