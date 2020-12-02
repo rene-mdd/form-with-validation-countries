@@ -6,4 +6,6 @@ Technologies: Plain JavaScript, HTML, and CSS.
 
 To check the full functionality clone or fork.
 
+Link to project: https://rene-mdd.github.io/form-with-validation-countries/
+
 Thank you.
